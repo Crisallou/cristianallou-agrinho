@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+.pagina1{
+    overflow: auto;
+    text-align: center;
+}
+
+.header{
+    height: 150px;
+    position: relative;
+}
+
+#leite{
+    left: 50px;
+    border: 10px solid white;
+}
+
+#leite2.jpd{
+    left: 50px;
+    border: 10px solid white;
+}
